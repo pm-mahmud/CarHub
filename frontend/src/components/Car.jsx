@@ -10,13 +10,11 @@ function Car() {
       <div className="max-w-screen container mx-auto md:px-20 px-4">
         <div className="mt-28 items-center justify-center text-center">
           <h1 className="text-2xl md:text-4xl">
-            Well come to the <span className="text-blue-400">Car</span> section
+            Welcome to the <span className="text-blue-400">Car</span> section
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            dolorum, deleniti tenetur corrupti deserunt magnam! Velit deserunt
-            cum suscipit labore consequatur fugit reprehenderit totam, vel amet
-            ipsam aperiam mollitia nobis.
+           Browse our latest car listings. 
+           Find the model you love and contact sellers instantly.
           </p>
           <Link to="/">
             <button className="btn mt-10 bg-pink-400 text-white px-4 py-2 rounded-md hover:bg-pink-600 duration-300">

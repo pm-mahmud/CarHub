@@ -49,8 +49,8 @@ function Display() {
 
         <div className="pt-1 pb-10">
           <p>
-            Lorem, ipsum dolor. Harum, nam alias. Magni, enim ipsa! Adipisci,
-            veniam beatae?
+            Discover the newest cars in our collection.
+             Style, comfort, and innovation await.
           </p>
         </div>
         {/* card container  */}

@@ -1,6 +1,10 @@
 import React from "react";
 import Jadab from "../../public/jadab.jpg";
+<<<<<<< HEAD
 import Pm from "../../public/pm.jpg";
+=======
+import pm from "../../public/pm.jpg";
+>>>>>>> cb01c6b17edd64429d9671b56a3be2a88093cd71
 import Navbar from "./Navbar";
 
 function About() {
@@ -24,7 +28,11 @@ function About() {
   <div className="flex flex-col items-center justify-start">
     <h1 className="text-3xl md:text-4xl text-indigo-400 mb-4">Pavel Mahmud Raj</h1>
     <img
+<<<<<<< HEAD
       src={Pm}
+=======
+      src={pm}
+>>>>>>> cb01c6b17edd64429d9671b56a3be2a88093cd71
       className="w-48 md:w-64 h-48 md:h-64 border-gray-900 rounded-3xl border-8 object-cover shadow"
       alt="Pavel"
     />

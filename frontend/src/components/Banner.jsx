@@ -21,10 +21,8 @@ function Banner() {
               <span className="text-blue-500 font-normal">Rent it</span>
             </h1>
             <p className="text-xl mb-12">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat
-              delectus laudantium recusandae saepe accusantium modi ullam
-              deleniti, impedit deserunt veniam laboriosam quae eos fugiat? Esse
-              corporis magnam cumque aut perspiciatis!
+              Explore, buy, and sell cars easily with our platform. 
+              Designed for a smooth user experience with clean layout and responsive design.
             </p>
             <label className="input validator ">
               <svg

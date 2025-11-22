@@ -50,7 +50,7 @@ function Footer() {
         </nav>
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by <span className="text-red-500"> Lal </span>
+            Copyright © {new Date().getFullYear()} - All right reserved by <span className="text-red-500"> Lal & Pm </span>
             Industries Ltd
           </p>
         </aside>
